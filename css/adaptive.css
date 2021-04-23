@@ -1,0 +1,40 @@
+/*1024-1180*/
+@media screen and (max-width: 1180px) {
+    .main__container__image {
+        margin-left: 47px;
+    }
+
+    .order__form input {
+        width: 422px;
+    }
+}
+
+/*767-1023*/
+@media screen and (max-width: 1023px) {
+    .main__container__image {
+        margin-left: 27px;
+    }
+
+    .order__form input {
+        width: 400px;
+    }
+
+    #main {
+        padding: 0 20px 120px 20px;
+    }
+}
+
+/*425-766*/
+@media screen and (max-width: 766px) {
+}
+
+#main {
+    padding: 0 20px 80px 20px;
+}
+
+/*320-424*/
+@media screen and (max-width: 424px) {
+    .main__info__text_under {
+        margin: 0 auto 50px auto;
+    }
+}
